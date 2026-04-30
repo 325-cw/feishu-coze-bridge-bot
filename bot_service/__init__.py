@@ -1,0 +1,2 @@
+"""Feishu WebSocket bot package."""
+
